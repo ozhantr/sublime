@@ -1,0 +1,24 @@
+{
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"remember_open_files": true,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
